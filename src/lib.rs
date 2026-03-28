@@ -1,3 +1,5 @@
+pub mod transport_type;
+
 #[cfg(test)]
 mod tests {
     // use super::*;
