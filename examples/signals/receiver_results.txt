@@ -1,0 +1,36 @@
+//3 - Wyjście
+//4 - Błędna instrukcja
+//5 - Pułapka debuggera/breakpoint
+//6 - Przerwane
+//7 - success: msg: -1
+//8 - Błąd w obliczeniach zmiennoprzecinkowych
+//9 - Unicestwiony
+//10 - success: Sygnał użytkownika 1
+//11 - strange: msg: -1 then froze
+//12 - success: Sygnał użytkownika 2
+//13 - strange: froze
+//14 - Budzik
+//15 - Zakończony
+//16 - Błąd stosu
+//17 - strange: froze
+//18 - strange: froze
+//19 - strange: '[2]+  Zatrzymano              cargo run'
+//20 - strange: '[3]+  Zatrzymano              cargo run'
+//21 - strange: '[4]+  Zatrzymano              cargo run'
+//22 - strange: '[5]+  Zatrzymano              cargo run'
+//23 - strange: froze
+//24 - success: Przekroczony limit czasu procesora
+//25 - success: Przekroczony limit wielkości pliku
+//26 - success: Upłynął czas stopera wirtualnego
+//27 - success: Upłynął czas stopera profilującego
+//28 - strange: froze
+//29 - success: We/Wy dozwolone
+//30 - success: Awaria zasilania
+//31 - success: Błędne wywołanie systemowe
+//32 - strange: Nieznany sygnał 32
+//33 - strange: Nieznany sygnał 33
+//34 - strange: Sygnał czasu rzeczywistego 0
+//35 - strange: Sygnał czasu rzeczywistego 1
+//40 - strange: Sygnał czasu rzeczywistego 6
+//64 - strange: Sygnał czasu rzeczywistego 30
+//64 - failed: send with res: -1
